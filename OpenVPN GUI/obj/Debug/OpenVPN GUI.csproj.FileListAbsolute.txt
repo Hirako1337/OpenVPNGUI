@@ -1,0 +1,10 @@
+C:\Users\Hirako\source\repos\OpenVPN GUI\OpenVPN GUI\obj\Debug\OpenVPN GUI.csprojAssemblyReference.cache
+C:\Users\Hirako\source\repos\OpenVPN GUI\OpenVPN GUI\obj\Debug\OpenVPN_GUI.Form1.resources
+C:\Users\Hirako\source\repos\OpenVPN GUI\OpenVPN GUI\obj\Debug\OpenVPN GUI.csproj.GenerateResource.cache
+C:\Users\Hirako\source\repos\OpenVPN GUI\OpenVPN GUI\obj\Debug\OpenVPN GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hirako\source\repos\OpenVPN GUI\OpenVPN GUI\bin\Debug\OpenVPN Custom GUI.exe.config
+C:\Users\Hirako\source\repos\OpenVPN GUI\OpenVPN GUI\bin\Debug\OpenVPN Custom GUI.exe
+C:\Users\Hirako\source\repos\OpenVPN GUI\OpenVPN GUI\bin\Debug\OpenVPN Custom GUI.pdb
+C:\Users\Hirako\source\repos\OpenVPN GUI\OpenVPN GUI\obj\Debug\OpenVPN_Custom_GUI.Properties.Resources.resources
+C:\Users\Hirako\source\repos\OpenVPN GUI\OpenVPN GUI\obj\Debug\OpenVPN Custom GUI.exe
+C:\Users\Hirako\source\repos\OpenVPN GUI\OpenVPN GUI\obj\Debug\OpenVPN Custom GUI.pdb
